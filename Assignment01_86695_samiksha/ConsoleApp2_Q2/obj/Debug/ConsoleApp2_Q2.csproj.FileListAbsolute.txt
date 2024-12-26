@@ -1,0 +1,7 @@
+D:\CDAC GIT\GIT PERSONAL\asp.netLab\Assignment01_86695_samiksha\ConsoleApp2_Q2\bin\Debug\ConsoleApp2_Q2.exe.config
+D:\CDAC GIT\GIT PERSONAL\asp.netLab\Assignment01_86695_samiksha\ConsoleApp2_Q2\bin\Debug\ConsoleApp2_Q2.exe
+D:\CDAC GIT\GIT PERSONAL\asp.netLab\Assignment01_86695_samiksha\ConsoleApp2_Q2\bin\Debug\ConsoleApp2_Q2.pdb
+D:\CDAC GIT\GIT PERSONAL\asp.netLab\Assignment01_86695_samiksha\ConsoleApp2_Q2\obj\Debug\ConsoleApp2_Q2.csproj.AssemblyReference.cache
+D:\CDAC GIT\GIT PERSONAL\asp.netLab\Assignment01_86695_samiksha\ConsoleApp2_Q2\obj\Debug\ConsoleApp2_Q2.csproj.CoreCompileInputs.cache
+D:\CDAC GIT\GIT PERSONAL\asp.netLab\Assignment01_86695_samiksha\ConsoleApp2_Q2\obj\Debug\ConsoleApp2_Q2.exe
+D:\CDAC GIT\GIT PERSONAL\asp.netLab\Assignment01_86695_samiksha\ConsoleApp2_Q2\obj\Debug\ConsoleApp2_Q2.pdb
