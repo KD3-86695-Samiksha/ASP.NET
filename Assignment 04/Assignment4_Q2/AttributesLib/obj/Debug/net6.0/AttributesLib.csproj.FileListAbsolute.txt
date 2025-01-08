@@ -1,0 +1,11 @@
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\bin\Debug\net6.0\AttributesLib.deps.json
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\bin\Debug\net6.0\AttributesLib.dll
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\bin\Debug\net6.0\AttributesLib.pdb
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\obj\Debug\net6.0\AttributesLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\obj\Debug\net6.0\AttributesLib.AssemblyInfoInputs.cache
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\obj\Debug\net6.0\AttributesLib.AssemblyInfo.cs
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\obj\Debug\net6.0\AttributesLib.csproj.CoreCompileInputs.cache
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\obj\Debug\net6.0\AttributesLib.dll
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\obj\Debug\net6.0\refint\AttributesLib.dll
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\obj\Debug\net6.0\AttributesLib.pdb
+F:\data\C-DAC\MyGitData\gfsdds\NET\Assignment_Workspace\AttributesLib\obj\Debug\net6.0\ref\AttributesLib.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2TUXJaADhdk=",
+  "success": true,
+  "projectFilePath": "D:\\CDAC\\personal_Gitdata\\dotnet\\Assignment\\Assignment3_Q2\\Assignment3_Q2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MRUNALI\\.nuget\\packages\\documentformat.openxml\\3.2.0\\documentformat.openxml.3.2.0.nupkg.sha512",
+    "C:\\Users\\MRUNALI\\.nuget\\packages\\documentformat.openxml.framework\\3.2.0\\documentformat.openxml.framework.3.2.0.nupkg.sha512",
+    "C:\\Users\\MRUNALI\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

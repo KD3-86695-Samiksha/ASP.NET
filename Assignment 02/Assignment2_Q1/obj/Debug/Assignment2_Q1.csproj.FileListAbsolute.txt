@@ -1,0 +1,7 @@
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment2_Q1\obj\Debug\Assignment2_Q1.csproj.AssemblyReference.cache
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment2_Q1\obj\Debug\Assignment2_Q1.csproj.CoreCompileInputs.cache
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment2_Q1\bin\Debug\Assignment2_Q1.exe.config
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment2_Q1\bin\Debug\Assignment2_Q1.exe
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment2_Q1\bin\Debug\Assignment2_Q1.pdb
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment2_Q1\obj\Debug\Assignment2_Q1.exe
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment2_Q1\obj\Debug\Assignment2_Q1.pdb

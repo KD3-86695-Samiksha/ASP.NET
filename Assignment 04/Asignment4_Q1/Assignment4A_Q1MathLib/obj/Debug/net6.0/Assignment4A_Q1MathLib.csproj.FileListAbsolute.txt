@@ -1,0 +1,12 @@
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\bin\Debug\net6.0\Assignment4A_Q1MathLib.deps.json
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\bin\Debug\net6.0\Assignment4A_Q1MathLib.dll
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\bin\Debug\net6.0\Assignment4A_Q1MathLib.pdb
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\obj\Debug\net6.0\Assignment4A_Q1MathLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\obj\Debug\net6.0\Assignment4A_Q1MathLib.AssemblyInfoInputs.cache
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\obj\Debug\net6.0\Assignment4A_Q1MathLib.AssemblyInfo.cs
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\obj\Debug\net6.0\Assignment4A_Q1MathLib.csproj.CoreCompileInputs.cache
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\obj\Debug\net6.0\Assignment4A_Q1MathLib.sourcelink.json
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\obj\Debug\net6.0\Assignment4A_Q1MathLib.dll
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\obj\Debug\net6.0\refint\Assignment4A_Q1MathLib.dll
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\obj\Debug\net6.0\Assignment4A_Q1MathLib.pdb
+D:\CDAC\personal_Gitdata\dotnet\Assignment\Assignment4A_Q1MathLib\obj\Debug\net6.0\ref\Assignment4A_Q1MathLib.dll
